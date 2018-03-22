@@ -1,0 +1,10 @@
+@page {
+    margin: 1cm;
+    size: A4;
+}
+
+
+.personinfo {
+    width: 100%;
+    border: 1px solid #000;
+}
